@@ -1,0 +1,59 @@
+#heder2{position:absolute; left:180px; top:35px;right:30%}
+#heder{
+background-color:#9ADAF5;position:relative;top:-40px;
+}
+#meni{position:relative; top:-70px; 
+}
+.navbar-default {0.5px;
+    background-color: #9ADAF5;border-color:9ADAF5;} /*navigacija boja*/
+#dzambatron{position:relative; top:-69px; } 
+
+#futer{background-color:#9ADAF5;}
+#akcija {position:relative; top:-75px;  }
+#slika{height:100}
+
+#citat{position:relative;top:100px; }
+
+#5BB85D-zelena
+@media print {.container-fluid}
+
+a:hover {color: #2C3384;}
+a:link, a:visited {
+    color: blue;}
+plava{color:blue}}
+
+.link_naslov{text-decoration: none;color:#777;}
+
+.container-novi {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: 6%;
+    margin-left: 6%;
+}
+#slikadno{ position:relativ; }
+.container-novi2{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: 80%;
+    margin-left: auto;
+}
+#tekst{ margin-top:-100px}
+.stampac{margin-left:50%}
+
+@media screen and (min-width: 2000px) {
+  .klasa {
+    margin-left: -107px;
+  }
+}
+@media screen and (min-width: 2000px) {
+  .klasa {
+    margin-left: -107px;
+  }
+}
+@media screen and (min-width: 2500px) {
+  .klasa {
+    margin-left: -107px;
+  }
+}
+/*ovo je za linkove da budu plavi kad se predje tj hover, a normalni kad se ne predje ;0    .link_naslov a:link{text-decoration: none;color:#777;}
+.link_naslov a:hover{color:blue;text-decoration:underline;}*/
